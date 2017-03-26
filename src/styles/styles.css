@@ -1,0 +1,7 @@
+#app > div > div > div.row {
+  margin: 10px 10px 10px 10px;
+}
+
+.movie_description {
+  font-size: 22px;
+}
